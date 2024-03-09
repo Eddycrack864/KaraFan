@@ -7,7 +7,7 @@ Instrum 3,x,Instrumental,1.028,17640,7680,3072,256,2022-10-31,UVR-MDX-NET-Inst_3
 Instrum HQ 1,x,Instrumental,1.035,0,6144,3072,256,2023-03-28,UVR-MDX-NET-Inst_HQ_1.onnx
 Instrum HQ 2,x,Instrumental,1.033,0,6144,3072,256,2023-04-10,UVR-MDX-NET-Inst_HQ_2.onnx
 Instrum HQ 3,x,Instrumental,1.022,0,6144,3072,256,2023-06-11,UVR-MDX-NET-Inst_HQ_3.onnx
-Instrum HQ 4,x,Instrumental,1.019,0,6144,3072,256,2024-03-08,UVR-MDX-NET-Inst_HQ_4.onnx
+Instrum HQ 4,x,Instrumental,1.019,0,6144,2560,256,2024-03-08,UVR-MDX-NET-Inst_HQ_4.onnx
 Instrum Main,x,Instrumental,1.025,17640,5120,2048,256,2022-12-19,UVR-MDX-NET-Inst_Main.onnx
 Kim Instrum,x,Instrumental,1.030,17640,7680,3072,256,2023-04-26,Kim_Inst.onnx
 (de-)Reverb HQ,,OTHER,1.035,0,6144,3072,512,2023-04-13,Reverb_HQ_By_FoxJoy.onnx
