@@ -24,8 +24,8 @@ def Install(params):
 
 	if params['isColab'] == False:  return
 
-	Repository  = "https://github.com/Captain-FLAM/KaraFan"
-	Version_url = "https://raw.githubusercontent.com/Captain-FLAM/KaraFan/master/App/__init__.py"
+	Repository  = "https://github.com/Eddycrack864/KaraFan"
+	Version_url = "https://raw.githubusercontent.com/Eddycrack864/KaraFan/master/App/__init__.py"
 
 	Version = ""; Git_version = ""
 
