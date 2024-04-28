@@ -874,7 +874,7 @@ def Download_Model(model, models_path, PROGRESS = None):
 	if not os.path.isfile(file_path):
 		print(f'Downloading model : "{name}" ...')
 
-		remote_url = 'https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/' + repo_file
+		remote_url = 'https://github.com/Eddycrack864/KaraFan/releases/download/karafan_models/' + repo_file
 		try:
 			response = requests.get(remote_url, stream=True)
 			response.raise_for_status()  # Raise an exception in case of HTTP error code
